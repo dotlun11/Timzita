@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_add"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_n1"
+        android:title="Khuyến Mãi"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_add2"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_n2"
+        android:title="Giao Dịch"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_add3"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_name"
+        android:title="Tài Khoản"
+        app:showAsAction="ifRoom" />
+</menu>
